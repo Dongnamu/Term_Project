@@ -1,4 +1,4 @@
-# BO Term Project
+# Term Project
 
 ## Training
 
